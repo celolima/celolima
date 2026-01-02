@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @celolima
 - 🌱 I’m currently learning Python
-- 📫 How to reach me celorsl@yahoo.com.br
+
